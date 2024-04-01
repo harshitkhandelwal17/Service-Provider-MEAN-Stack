@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
-  apiUrl: 'http://localhost:3000/v1/provider/',
+  apiUrl: 'https://service-provider-mean-stack-3.onrender.com/v1/provider/',
 };
